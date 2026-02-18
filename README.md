@@ -1,2 +1,2 @@
 # cpp-proyect
-a thermal converter, K, C and F
+a thermal converter, Celsius (C°), Kelvin (K) & Fahrenheit
